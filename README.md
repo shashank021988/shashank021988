@@ -174,3 +174,4 @@ I welcome conversations regarding Cloud Architecture, Enterprise DevSecOps trans
 [![Email](https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhakuaengineer@example.com)
 
 </div>
+.
