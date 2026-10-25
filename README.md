@@ -1,16 +1,22 @@
 <div align="center">
 
+<!-- Capsule Render Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0078D4,100:00E5FF&height=200&section=header&text=Shashank%20%7C%20DevSecOps%20%26%20Cloud%20Architect&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20Zero-Trust%20IaC%20%C2%B7%20GitOps%20%C2%B7%20Autonomous%20SRE&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+
+<!-- Animated Typing SVG -->
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Senior+DevSecOps+Engineer+%7C+Cloud+Architect;Microsoft+Azure+%7C+Terraform+IaC+%7C+Zero-Trust+CI%2FCD;Agentic+AI+Engineering+%7C+Model+Context+Protocol+(MCP)+%26+RAG;Migrating+100%2B+Workloads+with+Zero-Downtime;Building+Self-Healing+%26+FinOps-Optimized+Cloud+Platforms" alt="Animated DevSecOps headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Senior+DevSecOps+Engineer+%7C+Cloud+Architect;Microsoft+Azure+%7C+Terraform+IaC+%7C+Zero-Trust+CI%2FCD;Agentic+AI+Engineering+%7C+MCP+%26+LangGraph+RAG;Migrating+100%2B+Workloads+with+Zero-Downtime;Building+Self-Healing+%26+FinOps-Optimized+Platforms" alt="Typing SVG" />
 </a>
 
-### 🔐 Senior DevSecOps Engineer & Cloud Architect | Agentic AI Systems
-
-**Enterprise Cloud Infrastructure · Zero-Trust Security · GitOps Automation · Autonomous SRE**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashank021988?tab=repositories)
-[![Control Plane](https://img.shields.io/badge/Status-Available_for_Senior_Roles-16803D?style=for-the-badge&logo=opsgenie&logoColor=white)](#-connect)
+[![Status](https://img.shields.io/badge/Status-Available_for_Senior_Roles-16803D?style=for-the-badge&logo=opsgenie&logoColor=white)](#-connect)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shashank021988&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS)
 
 </div>
 
@@ -26,6 +32,16 @@ My architectural background focuses on **governing and migrating 100+ mission-cr
 * 🛡️ **DevSecOps & Supply Chain:** Baking automated security gates (Checkov, Trivy, GitLeaks, OPA Gatekeeper) into Azure DevOps and GitHub Actions CI/CD pipelines.
 * 🤖 **Agentic AI & LLMOps:** Implementing **Model Context Protocol (MCP)** and **LangGraph Multi-Agent Swarms** for automated incident triage, root cause analysis (RCA), and self-healing GitOps PR remediation.
 * 💰 **FinOps & Cost Governance:** Cutting up to 32% cloud OPEX through automated resource rightsizing, orphan storage cleanup, and predictive CI/CD cost gating.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=shashank021988&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -95,11 +111,15 @@ flowchart TD
 
 ## 🏅 Industry Certifications
 
-- **AZ-305** — Microsoft Certified: Azure Solutions Architect Expert
-- **AZ-400** — Designing and Implementing Microsoft DevOps Solutions
-- **AZ-104** — Microsoft Certified: Azure Administrator Associate
-- **CKA** — Certified Kubernetes Administrator *(Cloud Native Computing Foundation)*
-- **HashiCorp Certified** — Terraform Associate (003)
+<div align="center">
+
+![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Solutions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
 
 ---
 
@@ -159,6 +179,24 @@ Serverless cloud financial management bot automating multi-cloud waste eliminati
 <img src="https://github-readme-stats.vercel.app/api?username=shashank021988&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank021988&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank021988&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashank021988/shashank021988/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashank021988/shashank021988/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashank021988/shashank021988/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
@@ -171,7 +209,10 @@ I welcome conversations regarding Cloud Architecture, Enterprise DevSecOps trans
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Schedule a Call](https://img.shields.io/badge/Calendly-Schedule_Architecture_Sync-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com)
-[![Email](https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhakuaengineer@example.com)
+[![Email](https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0078D4,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
-.
